@@ -13,7 +13,15 @@
       "ios": {
         "buildConfiguration": "Debug",
         "simulator": true
+      },
+      "production": {
+      "android": {
+        "image": "latest"
+      },
+      "ios": {
+        "image": "latest"
       }
+    }
     },
     "development:device": {
       "extends": "development",

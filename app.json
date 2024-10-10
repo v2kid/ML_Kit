@@ -4,10 +4,10 @@
   "expo": {
     "name": "React Native MLKit",
     "slug": "react-native-mlkit",
-    "owner": "infinitered",
+    "owner": "v2kid",
     "extra": {
       "eas": {
-        "projectId": "4faa9328-e941-4395-879c-f558bf07e678"
+        "projectId": "97286f54-6755-432e-9bed-65ede42eac0e"
       }
     },
     "scheme": "react-native-mlkit",
